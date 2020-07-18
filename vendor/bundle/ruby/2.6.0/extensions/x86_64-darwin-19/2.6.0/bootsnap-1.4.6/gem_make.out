@@ -1,0 +1,15 @@
+current directory: /Users/kouha/development/BCrypt_test/BCrypt_test/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+/Users/kouha/.rbenv/versions/2.6.3/bin/ruby -I /Users/kouha/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20200718-95439-h36a57.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kouha/development/BCrypt_test/BCrypt_test/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/kouha/development/BCrypt_test/BCrypt_test/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/kouha/development/BCrypt_test/BCrypt_test/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20200718-95439-17dsgmf/bootsnap
